@@ -2,7 +2,7 @@ certifi==2019.9.11
 chardet==3.0.4
 cycler==0.10.0
 idna==2.8
-joblib==0.14.0
+joblib==1.2.0
 kaggle==1.5.6
 kiwisolver==1.1.0
 matplotlib==3.1.2
